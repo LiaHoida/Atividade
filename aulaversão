@@ -1,1 +1,5 @@
+<script>
 console.log("hello world")
+
+alert("olá mundo, seja bem-vindo")
+</script>
